@@ -22,7 +22,7 @@ $git clone https://github.com/Derxr/XrNew
 
 $ls (L) kecil
 
-$cd Xr
+$cd XrNew
 
 $git pull
 
